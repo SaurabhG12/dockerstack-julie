@@ -1,7 +1,7 @@
 dockerstack-julie
 =================
 
-<img alt="DockerStack Julie Orchestrator Engine" src="https://dl.dropboxusercontent.com/content_link/X21LdvdAR5ViFTpMwRoUYBjupzzY5sXaHOx4PbquSNTM4E7Dp2zvvsMglUOn32Gp?dl=1">
+<img alt="DockerStack Julie Orchestrator Engine" src="https://photos-6.dropbox.com/t/0/AACQai9tQ7mshIaZ206VpTjRNEYkYaC9U_V20wny3MhfVA/12/77825075/png/1024x768/3/1411664400/0/2/dockerstack-julie%20readme.png/x2hsraIvwBnGUAblo3IH6IdcikHfBXZe1qq_kqNd3Co">
 
 
 
