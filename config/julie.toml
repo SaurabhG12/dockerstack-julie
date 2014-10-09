@@ -1,0 +1,28 @@
+#
+# This is the Config file for the Orchestration Engine to take the configuration as required
+#
+#
+#
+
+
+#These are the settings for the Development environment
+
+[development]
+port=1987
+database="mariadb"
+dbport=8888
+vcsdir="/opt/repository"
+
+#These are the settings for the Production environment
+
+[production]
+port=1987
+database="mariadb"
+dbport=8888
+vcsdir="/opt/repository"
+
+[security]
+accept="10.0.0.1"
+  
+
+
